@@ -6,6 +6,6 @@ local function config(_, _)
 end
 
 return {
-  "mfussenger/nvim-dap",
+  "mfussenegger/nvim-dap",
   config = config,
 }
